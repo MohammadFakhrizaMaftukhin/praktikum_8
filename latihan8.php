@@ -13,8 +13,8 @@
 
 // data kelas dengan array 2 dimensi
 $array = array(
-    "1C" => array("Udin", "ismail", "adi"),
-    "1D" => array("lukman", "fajri", "mahmud")
+    "1C" =>array("Udin", "ismail", "adi"),
+    "1D" =>array("lukman", "fajri", "mahmud")
 );
 // menampilkan data array
 print_r($array);
@@ -31,7 +31,7 @@ echo "Andi tidak ada di data";
 $array_simple = [
     "1C" =>["Udin", "ismail", "adi"],
     "1D" =>["lukman", "fajri", "mahmud"]
-]
+];
 
 ?>
 </body>
